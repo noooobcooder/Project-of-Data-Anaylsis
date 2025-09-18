@@ -1,0 +1,9 @@
+## Netflix Data Analysis ##
+
+## Importing Libraries ##
+               import pandas as pd: 
+This line imports the Pandas library and gives it a shorter name, pd. Pandas is an essential tool for working with structured data, like the kind found in a CSV file.
+
+import seaborn as sns: This imports the Seaborn library, which is great for creating beautiful and informative statistical graphs. We give it the shorter name sns.
+
+import matplotlib.pyplot as plt: This imports Matplotlib, another popular library for creating plots and charts. We use plt as its alias.
